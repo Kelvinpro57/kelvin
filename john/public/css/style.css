@@ -1,0 +1,56 @@
+
+body{
+    background-color: rgb(240, 240, 215);
+}
+/* Primary color */
+.primary_color{
+    background-color: aliceblue;
+}
+/* Secondary color */
+.secondary_color{
+    background-color: black;
+}
+/* index start */
+.intro{
+    color: black;
+    background-color: beige;
+}
+.intro:hover{
+    color: white;
+    margin-top: 20px;
+    background-color: aquamarine;
+}
+/* Everywhere there is scale */
+.scale:hover{
+    transform: scale(1.1);
+}
+/* index end */
+/* course start */
+.detail_color{
+    background-color: rgb(243, 235, 224);
+}
+/* course end */
+/* Contact start */
+.contact_height{
+    background-image: url('../img/instructor.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+/* Contact end */
+/* About start */
+.about_height{
+    background-image: url('../img/instructor.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+/* About end */
+/* Make money start */
+.marquee_text{
+    height: 40px;
+    background-color: rgb(215, 228, 224);
+}
+/* Make money end */

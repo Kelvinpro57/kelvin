@@ -1,0 +1,7 @@
+*I will change the name of folder to make money online 
+*The admin should be able to add courses 
+*If I am putting external links I will make sure they don't go out of the site. I will use iframe or other alternative 
+*People should be able to signup as vendor, and they should be able to add their own courses to the website.
+*Vendors will have a place where their will add courses, and they should be able to promote both thier courses and other people's course.
+*Affilaite will be promoting people's product and their should be able to report a course if what is inside the course is (trash).
+*Student should be able to report, comment and rate courses.
